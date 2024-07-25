@@ -40,7 +40,8 @@
 
 ###
 
-We understand that the market is saturated, a lot of information, most of it is false, but there always has to be someone who is honest and transparent in this. Remember this fact: “There is no custom firmware exclusively for you”, it's just a big scam.
+<h3 align="center">We understand that the market is saturated, a lot of information, most of it is false, but there always has to be someone who is honest and transparent in this. Remember this fact: “There is no custom firmware exclusively for you”, it's just a big scam.</h3>
+
 
 - 🟢 Free full emulated firmware [Soundblaster Full Emu](https://github.com/NationDMA)
 
