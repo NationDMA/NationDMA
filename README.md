@@ -46,4 +46,7 @@ We understand that the market is saturated, a lot of information, most of it is 
 
 - ⚡ Fun fact <em>**Don't pay more than $200 for “custom” firmware, it's not worth it.**</em>
 
+###
+
+![snake animation](https://github.com/NationDMA/NationDMA/blob/output/github-contribution-grid-snake2.svg)
 
